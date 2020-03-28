@@ -13,7 +13,8 @@ int main(int argc, const char * argv[]) {
     
     cout << "Hello, World!\n";
     cout << "This is Testing for Howdy Project";
-    cout << "This is creating second branch";
+    cout << "This is Testing on the same branch";
     cout << "This is actually fun";
+    cout << "I create the new branch and figuring out how push will work";
     return 0;
 }
